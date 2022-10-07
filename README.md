@@ -1,1 +1,1 @@
-React native animations Project 
+React Native Animations Example
